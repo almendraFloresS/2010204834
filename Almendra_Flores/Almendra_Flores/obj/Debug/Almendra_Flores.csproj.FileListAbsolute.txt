@@ -1,0 +1,6 @@
+C:\Users\Hackerman\Documents\Visual Studio 2015\Projects\2015137308\Almendra_Flores\Almendra_Flores\bin\Debug\Almendra_Flores.exe.config
+C:\Users\Hackerman\Documents\Visual Studio 2015\Projects\2015137308\Almendra_Flores\Almendra_Flores\bin\Debug\Almendra_Flores.exe
+C:\Users\Hackerman\Documents\Visual Studio 2015\Projects\2015137308\Almendra_Flores\Almendra_Flores\bin\Debug\Almendra_Flores.pdb
+C:\Users\Hackerman\Documents\Visual Studio 2015\Projects\2015137308\Almendra_Flores\Almendra_Flores\obj\Debug\Almendra_Flores.csprojResolveAssemblyReference.cache
+C:\Users\Hackerman\Documents\Visual Studio 2015\Projects\2015137308\Almendra_Flores\Almendra_Flores\obj\Debug\Almendra_Flores.exe
+C:\Users\Hackerman\Documents\Visual Studio 2015\Projects\2015137308\Almendra_Flores\Almendra_Flores\obj\Debug\Almendra_Flores.pdb
